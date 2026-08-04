@@ -1,0 +1,1 @@
+# bwg-akamai-cn2
